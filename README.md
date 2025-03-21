@@ -20,7 +20,7 @@ wget -O contract_deployer.sh https://raw.githubusercontent.com/linoxbt/Monad_Tes
 chmod +x contract_deployer.sh
 ```
 
-Run It:
+## Run It:
 ```bash
 ./contract_deployer.sh
 ```
