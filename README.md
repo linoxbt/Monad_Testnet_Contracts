@@ -10,7 +10,18 @@ A simple script for deploying ERC-20, ERC-721, and ERC-1155 contracts on the Mon
 ```
 
 ## Usage
-1. Run the script:
-   ```bash
-   wget -O deploy_contracts.py https://raw.githubusercontent.com/yourusername/monad-deployer/main/deploy_contracts.py
-   ```
+Download the Script:
+```bash
+wget -O contract_deployer.sh https://raw.githubusercontent.com/linoxbt/Monad_Testnet_Contracts/refs/heads/main/contract_deployer.sh
+```
+
+## Make It Executable:
+```bash
+chmod +x contract_deployer.sh
+```
+
+Run It:
+```bash
+./contract_deployer.sh
+```
+
